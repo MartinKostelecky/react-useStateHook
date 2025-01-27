@@ -1,0 +1,27 @@
+body {
+    background-color: forestgreen;
+}
+
+.container {
+    text-align: center;
+}
+
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    color: white;
+    margin-bottom: 5px;
+}
+
+button {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    border: none;
+    background-color: yellow;
+    border-radius: 5px;
+    color: firebrick;
+}
+
+button:hover {
+    cursor: pointer;
+}
